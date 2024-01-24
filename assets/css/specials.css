@@ -1,0 +1,10 @@
+body{
+    background-image: url("../images/back.jpeg");
+    background-size: cover;
+}
+p{
+    font-size: larger;
+    letter-spacing: 2px;
+    color: whitesmoke;
+
+}

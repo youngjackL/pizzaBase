@@ -1,0 +1,15 @@
+body{
+    background-image: url("../images/back.jpeg");
+    background-size: cover;
+}
+p{
+    color: whitesmoke;
+    letter-spacing: 2px;
+    display: block;
+}
+p{
+    text-align: left;
+    width: 60%;
+    font-weight: bold;
+    font-size: math;
+}
